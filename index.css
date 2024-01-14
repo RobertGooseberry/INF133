@@ -16,6 +16,9 @@ h1 {
 }
 
 p {
+    background-color: red;
+    color: green;
+    font-size: large;
     text-align: center;
     margin: 10px 0;
 }
