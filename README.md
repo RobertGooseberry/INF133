@@ -42,10 +42,8 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 4. What online resources did you consult when completing this assignment? (list specific URLs)
   -Knowledge of Bootstrap's layout and documentation was referred to from their website: https://getbootstrap.com/docs/3.4/css/. I also consulted W3Schools sections on HTML and CSS for implementing various elements into my code: https://www.w3schools.com/html/default.asp https://www.w3schools.com/css/default.asp. 
 
-
 5. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
-
-
+  -I consulted a friend who had taken this class in the previous quarter on any tips I should leverage in tackling this assignment. I was told to just do whatever I felt like should be included in a portfolio, and to not take it too seriously. I was also advised to use Bootstrap to make designing the layout of the website easier.
 
 6. Is there anything special we need to know in order to run your code?
-
+  -No.
