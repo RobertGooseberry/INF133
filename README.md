@@ -11,39 +11,39 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
 */13
-- */1 Readme
-- */2 Basic HTML content
-- */2 Basic CSS styling
-- */2 Advanced feature
-- */3 Responsive layout
-- */1 Passes validation checks
-- */2 Embraces spirit of the assignment
+- 1/1 Readme
+- 2/2 Basic HTML content
+- 2/2 Basic CSS styling
+- 2/2 Advanced feature
+- 3/3 Responsive layout
+- 1/1 Passes validation checks
+- 1/2 Embraces spirit of the assignment
 
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
 
 (a) Basic features
-
-
+  -Images and logos included in portfolio.
+  -Heading and list outlining information about my skills, education, work experience, and notable projects.
+  -Link to personal Github page in header.
+  -Approriate HTML tags and footer included.
+  -Addition of custom icons from Google Material Icons.
 
 (b) CSS features
-
-
+  -Included various Bootstrap features for image and navbar.
+  -Changed padding, offset, color, and alignment of various page elements.
+  -Changing the font.
 
 (c) Advanced features
-
-
+  -Included navbar at the top that jumps to certain sections of the website.
 
 3. How long, in hours, did it take you to complete this assignment?
-
-
+  -Planning and research took me about 6 hours in total, with actual implementation and testing taking about 2 hours. In total I spent a litte more than 8 hours on this assignment. This was spread out over the course of a few days as I would often think of new elements and revisions to the website.
 
 4. What online resources did you consult when completing this assignment? (list specific URLs)
-
-
+  -Knowledge of Bootstrap's layout and documentation was referred to from their website: https://getbootstrap.com/docs/3.4/css/. I also consulted W3Schools sections on HTML and CSS for implementing various elements into my code: https://www.w3schools.com/html/default.asp https://www.w3schools.com/css/default.asp. 
 
 5. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
-
-
+  -I consulted a friend who had taken this class in the previous quarter on any tips I should leverage in tackling this assignment. I was told to just do whatever I felt like should be included in a portfolio, and to not take it too seriously. I was also advised to use Bootstrap to make designing the layout of the website easier.
 
 6. Is there anything special we need to know in order to run your code?
-
+  -There are some errors left unfixed in the HTML and Web Accessibiity checker. These errors pertain to design choices and are not critical in running the webpage. 
