@@ -46,4 +46,4 @@ Talking to classmates about class material, assignment requirements, etc. is a g
   -I consulted a friend who had taken this class in the previous quarter on any tips I should leverage in tackling this assignment. I was told to just do whatever I felt like should be included in a portfolio, and to not take it too seriously. I was also advised to use Bootstrap to make designing the layout of the website easier.
 
 6. Is there anything special we need to know in order to run your code?
-  -No.
+  -There are some errors left unfixed in the HTML and Web Accessibiity checker. These errors pertain to design choices and are not critical in running the webpage. 
